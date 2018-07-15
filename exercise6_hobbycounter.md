@@ -2,9 +2,12 @@ This week, we're going to try to create some reports with Python's built-in data
 
 That dict will then have three key-value pairs:
 
-name
-age
-hobbies
+* name
+
+* age
+
+* hobbies
+
 
 The final value, "hobbies", will be a list of strings describing the person's hobbies.
 
