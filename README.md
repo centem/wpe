@@ -1,0 +1,2 @@
+# wpe
+Weekly Python Exercises
