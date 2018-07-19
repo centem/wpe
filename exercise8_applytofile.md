@@ -19,8 +19,8 @@ For example, if we call
 
 The result will be two dictionaries:
 
-The first dictionary's keys are the filenames and the output from running the function, when no exception was raised, and
-The second dictionary's keys are the filenames and the exception object when one was raised.
+* The first dictionary's keys are the filenames and the output from running the function, when no exception was raised, and
+* The second dictionary's keys are the filenames and the exception object when one was raised.
 
 So in the above call, if no exceptions were raised, then the first dictionary returned would consist of the fienames in /etc/, 
 with the length of each file as a value.  
