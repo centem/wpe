@@ -3,6 +3,7 @@ Hooray!  It's time for a wedding!
 Fine, so it's only a virtual wedding. But we have a bunch of guests, and we need to organize them in some way.  We're going to do that with a GuestList class. We'll create an instance of this class, and add our guests (as named tuples) into the guest list, along with a table number. We'll then be able to ask our class for a complete guest list by table, as well as a report of which tables aren't yet full.
 
 Here's how the class should work:
+
     # Person should be a named tuple, with "first" and "last" attributes
     gl = GuestList()
 
